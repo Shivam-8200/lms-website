@@ -10,7 +10,6 @@ A full-stack Learning Management System (LMS) built using the **MERN stack** to 
 - [Tech Stack](#tech-stack)
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [API Endpoints](#api-endpoints)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -95,5 +94,17 @@ npm run dev
 cd ../client
 npm start
 
+```
 
+
+# 🤝 Contributing
+Have an idea or improvement? Fork the repository and create a pull request. All contributions are appreciated!
+
+
+# 📄 License
+This project is licensed under the MIT License.
+
+# 📬 Contact
+Shivam Prasad
+📧 shivamprasad@example.com
 
